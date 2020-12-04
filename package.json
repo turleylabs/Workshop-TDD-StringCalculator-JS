@@ -9,6 +9,6 @@
     "jest": "^26.6.3"
   },
   "scripts": {
-    "test": "jest"
+    "test": "(jest 2>&1 | tee -a test_results.log) && date >> test_results.log && echo \"\" >> test_results.log"
   }
 }
