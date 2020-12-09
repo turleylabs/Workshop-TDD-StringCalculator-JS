@@ -1,3 +1,3 @@
-export function stringCalc(number) {
+export function stringCalc(numbers) {
     return null;
 }
