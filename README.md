@@ -3,10 +3,10 @@
 The method can take up to two numbers, separated by commas, and will return their sum. For an empty string it will return 0, for a single number it will return that number. 
 
 
-2. Allow the add method to handle an unknown amount of numbers.
+2. Allow the method to handle an unknown amount of numbers.
 
 
-3. Allow the stringCalc method to handle new lines between numbers (in addition to commas).
+3. Allow the method to handle new lines between numbers (in addition to commas).
 The following input is ok: “1\n2,3” (will equal 6)
 
 
